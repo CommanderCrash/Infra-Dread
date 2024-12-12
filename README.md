@@ -95,10 +95,5 @@ Notes:
     Use the appropriate options to send specific IR codes, randomize codes, or count up from a given starting code.
     The script does not require any additional Python packages beyond the standard RPi.GPIO library.
 
-License:
-
-This script is provided under the MIT License. Feel free to use, modify, and distribute it as per the terms of the MIT License.
-Author:
-
 The script is developed by Commander Crash of 29A Society
 
