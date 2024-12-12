@@ -1,5 +1,5 @@
 
-##  Infra-Dread   v1.0                                                          
+##  Infra-Dread   v1.3                                                          
 
 infra-dread is a Python script designed for Raspberry Pi to Brute force and send infrared (IR) codes using a connected IR transmitter. The script allows you to send specific IR codes in sequence, randomize the codes, or count up from a given starting code. It provides flexibility in customizing the header pulse, header space, one pulse, one space, zero pulse, zero space, pulse trail, and gap durations, enabling compatibility with a wide range of IR devices.
 
